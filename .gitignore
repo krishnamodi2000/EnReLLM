@@ -1,0 +1,8 @@
+.env
+.venv/
+data/randomtext/
+data/ml-25m/
+learning_curve/
+prompts/
+chroma/
+trials/
